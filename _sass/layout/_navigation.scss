@@ -193,7 +193,7 @@
     position: absolute;
     height: 2.5rem;
     right: 0;
-    padding: 5 5rem;
+    padding: 0 0.5rem;
     border: 0;
     outline: none;
     background-color: var(--global-base-color);
@@ -273,7 +273,7 @@
 
     a {
       margin: 0;
-      padding: 10px 20px;
+      padding: 30px 40px;
       font-size: $type-size-5;
 
       &:hover {
