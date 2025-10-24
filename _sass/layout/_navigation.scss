@@ -60,7 +60,7 @@
   @include full();
   @include clearfix();
   margin-top: 1em;
-  padding-top: 5em;
+  padding-top: 1em;
 
   ul {
     margin: 0;
@@ -76,7 +76,7 @@
 
     a {
       margin-bottom: 0.25em;
-      padding: 0.5em 1em;
+      padding: 5em 5em;
       font-family: $sans-serif;
       font-size: 14px;
       font-weight: bold;
