@@ -14,10 +14,10 @@ Previously my research was focused on the design and development of Predictive A
 
 Currently, my interests have expanded to Accelerated Materials Discovery (AMD) and Computational Fluid Dynamics (CFD). I'm focusing on the integration of AI methods directly into these domains to significantly enhance performance, speed up material innovation, and achieve more accurate, efficient simulations
 
-More about my research can be found on the [Research] (https://github.com/suhasghugare/suhasghugare.github.io/research) page.
+More about my research can be found on the [Research](https://github.com/suhasghugare/suhasghugare.github.io/research) page.
 
 Apart from technical computation I am also passionate about Software Development with skill sets in common programming languages such as Python, C, JavaScript, HTML….
 
 You can browse (and use) some of AI workflows from my hosted GitHub Public Repositories on === 
 
-Along with AI and Chemical Engineering Research, Music and Painting are an integral part of my life. More about it in the [Hobbies] (https://github.com/suhasghugare/suhasghugare.github.io/CV) page.
+Along with AI and Chemical Engineering Research, Music and Painting are an integral part of my life. More about it in the [Hobbies](https://github.com/suhasghugare/suhasghugare.github.io/CV) page.
