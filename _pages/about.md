@@ -21,3 +21,7 @@ Apart from technical computation I am also passionate about Software Development
 You can browse (and use) some of AI workflows from my hosted GitHub Public Repositories on === 
 
 Along with AI and Chemical Engineering Research, Music and Painting are an integral part of my life. More about it in the [Hobbies](https://suhasghugare.github.io/CV) page.
+
+
+
+During this period, I developed comprehensive knowledge of <b> AI and machine learning concepts </b> while gaining practical experience across diverse platforms. 
