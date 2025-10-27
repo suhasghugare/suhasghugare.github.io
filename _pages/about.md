@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi all! I am Suhas. Welcome to my Home Page."
+title: "Hi! I am Suhas. Welcome to my Home Page."
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,9 +16,11 @@ Currently, my interests have expanded to <b>Accelerated Materials Discovery (AMD
 
 More about my research can be found on the [Research](https://suhasghugare.github.io/publications) page.
 
-Apart from technical computation I am also passionate about Software Development with skill sets in common programming languages such as Python, C, JavaScript, HTML….
-
 You can browse (and use) some of AI workflows from my hosted GitHub Public Repositories on === 
 
+Apart from technical computation I am also passionate about Software Development with skill sets in common programming languages such as Python, C, JavaScript, HTML, MATLAB (Octave, Scilab) ….
+You can browse some of my Old work contributions here:(1) ==== , (2) ====    
+
 Along with AI and Chemical Engineering Research, Music and Painting are an integral part of my life. More about it in the [Hobbies](https://suhasghugare.github.io/CV) page.
+
 
