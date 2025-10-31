@@ -12,15 +12,16 @@ I hold a PhD in Applications of Artificial Intelligence (AI) in Chemical Enginee
 
 Previously my research was focused on the design and development of <b>Predictive AI-based methodologies</b> for chemical engineering applications, wherein I designed and developed several Predictive AI-based work-flows for Properties Modeling, Process Modeling, Optimization and Control Applications. During this period, I developed comprehensive knowledge of AI concepts while gaining practical experience across diverse platforms. My early work utilized user-friendly modeling packages <b>(IBM SPSS, RapidMiner, Eureqa Formulize, MATLAB)</b>, which provided essential context. However, my primary focus has now shifted to utilizing the full power and flexibility of <b>Python's AI ecosystem</b> for developing custom, state-of-the-art models.
 
-Currently, my interests have expanded to <b>Accelerated Materials Discovery (AMD)</b> and <b>Computational Fluid Dynamics (CFD)</b>. I'm focusing on the integration of AI methods directly into these domains to significantly enhance performance, speed up material innovation, and achieve more accurate, efficient simulations
+Currently, my interests have expanded to <b>Accelerated Materials Discovery (AMD)</b>, in which I'm focusing on the integration of AI methods to significantly enhance performance, speed up material innovation, and achieve more accurate, efficient molecular dynamics simulations.
 
 More about my research can be found on the [Research](https://suhasghugare.github.io/publications) page.
 
-You can browse (and use) some of AI workflows from my hosted GitHub Public Repositories on === 
+You can browse (and use) some of AI workflows from my hosted [GitHub Public Repositories](https://github.com/suhasghugare) 
 
 Apart from technical computation I am also passionate about Software Development with skill sets in common programming languages such as Python, C, JavaScript, HTML, MATLAB (Octave, Scilab) ….
-You can browse some of my Old work contributions here:(1) ==== , (2) ====    
+You can browse some of my old work contributions here:
+1. [Vapour Liquid Equilibrium P-T-X-Y Calculations for a Ideal Binary Mixture on File Exchange-MATLAB Central, 2006](https://www.mathworks.com/matlabcentral/fileexchange/14960-vapour-liquid-equilibrium-p-t-x-y-calculations-for-a-ideal-binary-mixture)
+2. [Multi-Objective Constrained Grid-Search Optimization (MOCGS) for optimization of process modeled by RSM-based non-linear models, 2023](https://sites.google.com/view/mocgs-optimization)
+
 
 Along with AI and Chemical Engineering Research, Music and Painting are an integral part of my life. More about it in the [Hobbies](https://suhasghugare.github.io/CV) page.
-
-
