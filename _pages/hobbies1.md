@@ -17,6 +17,6 @@ The following images offer a glimpse into my creative work:"
 
 My recent professional commitments and a deep interest in my technical research have regrettably limited my capacity to invest the required time in these hobbies.
 
-<img src="images/WaterColor2.png" alt="Girl in a jacket" width="100" height="200">
+<img src="/images/WaterColor2.png" alt="Girl in a jacket" width="100" height="200">
 
 My recent professional commitments and a deep interest in my technical research have regrettably limited my capacity to invest the required time in these hobbies.
