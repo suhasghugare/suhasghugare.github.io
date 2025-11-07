@@ -1,10 +1,10 @@
 ---
- layout: archive
- title: “Research”
- permalink: /research1/
- author_profile: true
- redirect_from:
+permalink: /
+title: " Research"
+author_profile: true
+redirect_from: 
   - /research1/
+  - / research1.html
 ---
 
 ---
