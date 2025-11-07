@@ -21,19 +21,22 @@ Journal Publications
 Conference Publication
 ---
 * Ghugare, S. B., & Tambe, S. S. (2016, January). Development of genetic programming based softsensor model for styrene polymerization process and its application in model based control. In 2016 Indian Control Conference (ICC), pp. 238-244, IEEE Xplore.
+
 Book Published
 ---
 * Ghugare, S. B. (2005). “Chemical Engineering for GATE and Other Competitions”, Khanna Publishers, Delhi, ISBN: 8174092099.
 
---
+
+
 You can also check out my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=Zi3xtvIAAAAJ)
 
 Professional Contributions (Research Peer Review)
 ---
 
 I have worked as reviewer for the following journals:  
-i.	Energy Conversion and Management: X, Elsevier
-ii.	Sustainable Energy Research, Springer
-iii.	Signal, Image and Video Processing, Springer
-iv.	Multiscale and Multidisciplinary Modeling, Experiments and Design, Springer
+1. Energy Conversion and Management: X, Elsevier
+2. Sustainable Energy Research, Springer
+3. Signal, Image and Video Processing, Springer
+4. Multiscale and Multidisciplinary Modeling, Experiments and Design, Springer
+
 More details of my review work can be found on my [Orchid Profile](https://orcid.org/0000-0001-5211-3240)
