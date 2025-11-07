@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am working as an Assistant Professor in Chemical Engineering in the Department of Chemical Engineering, All India Shri Shivaji Memorial Society’s College of Engineering (AISSMSCOE), Kennedy Road, Pune, Maharashtra, India for a long tenure.
----
+
 During my teaching tenure I have thought various chemical engineering subjects to UG and PG students, from which some of the important core subjects are:
 * Process Dynamics & Control (UG)
 * Principles of Design (UG)
