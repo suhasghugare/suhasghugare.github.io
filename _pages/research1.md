@@ -4,7 +4,7 @@ title: " Research"
 author_profile: true
 redirect_from: 
   - /md/
-  - / research1.html
+  - /research1.html
 ---
 
 ---
