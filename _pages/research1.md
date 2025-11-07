@@ -1,14 +1,13 @@
-===
+---
 	layout: archive
 	title: “Research”
 	permalink: /research1/
 	author_profile: true
 	redirect_from:
-	/research1/
-===
+	    -   /research1/
+---
 
-Research
-===
+---
 Research Journey
 ---
 My academic and research journey has been driven by a passion for solving complex, real-world problems in chemical engineering using Artificial Intelligence (AI) methodologies. I have a strong conviction that AI will transform our world for the better, and that engineers will be at the forefront of shaping this future. This belief drives my desire to play a role in this exciting new frontier in the chemical engineering domain. My doctoral work has provided me with a robust foundation of <b>utilizing AI in material property and process modelling, simulation, control and optimization</b>, and I am now eager to apply it to address the next generation of challenges in this field. 
