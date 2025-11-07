@@ -12,7 +12,7 @@ Following is the list of my <i>notable</i> Published Journal Papers, Conference 
 Journal Publications
 ---
 
-* Kenekar, V. V., Ghugare@, S. B., & Patil-Shinde, V. (2023). Multi-objective optimization of high-shear wet granulation process for better granule properties and fluidized bed drying characteristics. Powder Technology, 420, 118373. (@Corresponding Author)
+* Kenekar, V. V., Ghugare<sup>@</sup>, S. B., & Patil-Shinde, V. (2023). Multi-objective optimization of high-shear wet granulation process for better granule properties and fluidized bed drying characteristics. Powder Technology, 420, 118373. (<sup>@</sup>Corresponding Author)
 * Tiwary, S., Ghugare, S. B., Chavan, P. D., Saha, S., Datta, S., Sahu, G., & Tambe, S. S. (2020). Co-gasification of high ash coal–biomass blends in a fluidized bed Gasifier: Experimental study and computational intelligence-based modeling. Waste and Biomass Valorization, 11(1), 323-341.
 * Ghugare, S. B., Tiwary, S., & Tambe, S. S. (2017). Computational intelligence based models for prediction of elemental composition of solid biomass fuels from proximate analysis. International Journal of System Assurance Engineering and Management, 8(Suppl 4), 2083-2096.
 * Ghugare, S. B., & Tambe, S. S. (2017). Genetic programming based high performing correlations for prediction of higher heating value of coals of different ranks and from diverse geographies. Journal of the Energy Institute, 90(3), 476-484.
