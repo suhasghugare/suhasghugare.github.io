@@ -12,7 +12,7 @@ I possess inherent Drawing and Painting skills, a passion I recognized early in 
 
 The following images offer a glimpse into my creative work:"
 
-![Water Color Painting](/images/watercolor1.png)
+![Water Color Painting](/images/WaterColor1.png)
 
 
 My recent professional commitments and a deep interest in my technical research have regrettably limited my capacity to invest the required time in these hobbies.
