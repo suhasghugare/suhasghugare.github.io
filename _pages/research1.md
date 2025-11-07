@@ -1,3 +1,12 @@
+===
+	layout: archive
+	title: “Research”
+	permalink: /research1/
+	author_profile: true
+	redirect_from:
+	/research1/
+===
+
 Research
 ===
 Research Journey
