@@ -18,27 +18,30 @@ Work Experience
 * Assistant Professor in Chemical Engineering, All India Shri Shivaji Memorial Society’s College of Engineering, Pune-1
 * Lecturer in Chemical Engineering, All India Shri Shivaji Memorial Society’s Polytechnic, Pune-1
 
- * Duties: 
+  * Duties: 
      * Lectures & Practical’s of UG & PG Chemical Engineering students
      * Research
      * Administrative Work
 
 * Production Incharge, Cipla Ltd.(Pharmaceutical Major), Pune
- * Duties: 
+  * Duties: 
      * Supervise & Monitor pharmaceutical batches to produce Bulk Drugs
      * Administrative Work
 
   
 Skills
 ---
-* AI Concepts & its Practical Implementation
+* Chemical Engineering & Chemistry
+  * General Experimental Procedures
+  * Chemical Analysis: UV-Vis Spectrophotometer, HPLC, GC
+  * Control Systems: Concepts & Practical Implementation
+* AI: Concepts & Practical Implementation
   * Predictive AI
   * Generative AI: NLP, Custom GPTs (LLM)
 * Software
   * Python & its AI Ecosystem
   * MATLAB, Octave, Scilab
   * HTML, JS
-* Chemical Analysis
-  * UV-Vis Spectrophotometer
-  * HPLC
-  * GC
+* Digital Drawing (Vector Graphics) & Game Development
+  * Inkscape
+  * Wick Editor (HTML-JS)
