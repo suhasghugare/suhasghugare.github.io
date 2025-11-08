@@ -6,7 +6,6 @@ redirect_from:
   - /md/
   - /CV1.html
 ---
-
 Education
 ---
 * Ph.D in Chemical Engineering, National Chemical Laboratory (India) as research centre from Savitribai Phule Pune University (SPPU), Pune, 2018
@@ -20,15 +19,12 @@ Work Experience
 
   * Duties: 
      * Lectures & Practical’s of UG & PG Chemical Engineering students
-     * Research
-     * Administrative Work
+     * Research & Administrative Work
 
 * Production Incharge, Cipla Ltd.(Pharmaceutical Major), Pune
   * Duties: 
      * Supervise & Monitor pharmaceutical batches to produce Bulk Drugs
-     * Administrative Work
-
-  
+     
 Skills
 ---
 * Chemical Engineering & Chemistry
