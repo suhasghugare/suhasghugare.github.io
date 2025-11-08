@@ -28,9 +28,11 @@ Work Experience
 Skills
 ---
 * Chemical Engineering & Chemistry
+  * Process Modeling, Simulation & Control
+  * Molecular Dynamics Simulation in LAMMPS
+  * Computational Fluid Dynamics
   * General Experimental Procedures
   * Chemical Analysis: UV-Vis Spectrophotometer, HPLC, GC
-  * Control Systems: Concepts & Practical Implementation
 * AI: Concepts & Practical Implementation
   * Predictive AI
   * Generative AI: NLP, Custom GPTs (LLM)
