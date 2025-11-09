@@ -28,6 +28,6 @@ The following images offer glimpses into my creative work:"
 
 <b>Fig. 4 Sketching Sample 2</b>
 
-<img src="/images/sbghgwg.png" width="300" height="200">
+<img src="/images/sbghswg.png" width="300" height="200">
 
 <b>Fig. 5 Schematic of High Shear Wet Granulator developed in Inkscape Graphics</b>
