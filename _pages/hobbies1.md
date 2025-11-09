@@ -12,23 +12,22 @@ I possess inherent Drawing and Painting skills, a passion I recognized early in 
 
 The following images offer glimpses into my creative work:"
 
-<img src="/images/sbgwatercolor1.png" width="800" height="500">
+<img src="/images/sbgwatercolor1.png" width="700" height="400">
 
-<b>Fig. 1 Water Color Painting Sample 1</b>
+<p style="text-align: center;"><b>Fig. 1 Water Color Painting Sample 1</b></p>
 
-<img src="/images/sbgwatercolor2.png" width="800" height="500">
+<img src="/images/sbgwatercolor2.png" width="700" height="400">
 
-<b>Fig. 2 Water Color Painting Sample 2</b>
+<p style="text-align: center;"><b>Fig. 2 Water Color Painting Sample 2</b></p>
 
-<img src="/images/sbgsketch1.png" width="800" height="500">
+<img src="/images/sbgsketch1.png" width="700" height="400">
 
-<b>Fig. 3 Sketching Sample 1</b>
+<p style="text-align: center;"><b>Fig. 3 Sketching Sample 1</b></p>
 
-<img src="/images/sbgsketch2.png" width="800" height="500">
+<img src="/images/sbgsketch2.png" width="700" height="400">
 
-<b>Fig. 4 Sketching Sample 2</b>
+<p style="text-align: center;"><b>Fig. 4 Sketching Sample 2</b></p>
 
-<img src="/images/sbghswg.png" width="800" height="500">
+<img src="/images/sbghswg.png" width="700" height="400">
 
-<b>Fig. 5 Schematic of High Shear Wet Granulator developed in Inkscape Graphics</b>
-
+<p style="text-align: center;"><b>Fig. 5 Schematic of High Shear Wet Granulator developed in Inkscape Graphics</b></p>
