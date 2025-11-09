@@ -14,7 +14,7 @@ The following images offer glimpses into my creative work:"
 
 <img src="/images/sbgwatercolor1.png" width="700" height="300">
 
-<h1 style="text-align: center;">Fig. 1 Water Color Painting Sample 1</h1>
+<p style="text-align: center;"><b>Fig. 1 Water Color Painting Sample 1</b></p>
 
 <img src="/images/sbgwatercolor2.png" width="700" height="300">
 
