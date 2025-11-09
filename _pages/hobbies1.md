@@ -10,7 +10,7 @@ redirect_from:
 Along with AI and Chemical Engineering Research, Painting and listening to Music are integral parts of my life.  
 I possess inherent Drawing and Painting skills, a passion I recognized early in my school days and have diligently developed over the years. My specialty and personal favorite is Landscape Watercolor Painting. Beyond my personal interest in traditional drawing and painting, I've developed Digital Graphic Drawing skills using software like Inkscape. I recently applied this proficiency to create professional-looking schematics of the High Shear Wet Granulator and related figures, which significantly enhanced the visual clarity of my latest research publication.
 
-The following images offer glimpses into my creative work:"
+The following images offer glimpses into my creative work
 
 <img src="/images/sbgwatercolor1.png" width="700" height="300">
 
@@ -31,4 +31,3 @@ The following images offer glimpses into my creative work:"
 <img src="/images/sbghswg.png" width="700" height="300">
 
 <p style="text-align: center;"><b>Fig. 5 Schematic of High Shear Wet Granulator developed in Inkscape Graphics</b></p>
-
